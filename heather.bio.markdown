@@ -1,5 +1,7 @@
 #Heather Bio
 
+[Index](./Readme.markdown)
+
 Heather used to be Faythe, the child of two strict St Cuthbert 
 devotees. The distant town in which she grew up was a St Cuthbert temple 
 protectorate; Providence, her mother, was a low ranking Star order 
@@ -29,3 +31,4 @@ She isn't a hermit. There are two villages only a few hours walk away that can
 provide the few things the forest can't. She often goes on market day to 
 peddle some potions then spend the money on reagents and in the taverns.
 
+[Index](./Readme.markdown)

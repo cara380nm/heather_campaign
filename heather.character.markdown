@@ -1,5 +1,9 @@
 #Heather character sheet
 
+[Index](./Readme.markdown)
+
+See [bio](./heather.bio.markdown)
+
 ##Misc
 * Race: Human (medium=0)
 * Description: Lean, light brown shoulder length hair, 5'8, 125lbs, slightly unkempt, relaxed carefree demeanor
@@ -12,12 +16,21 @@
 * Level: 1
 
 ##Stats
-* Wis: 18 +4
-* Int: 14 +2
-* Cha: 14 +2
-* Con: 14 +2
-* Dex: 12 +1
-* Str: 11 +0
+| Stat | Level | Bonus
+|------|-------|------
+| Wis  | 18    | +4
+| Int  | 14    | +2
+| Cha  | 14    | +2
+| Con  | 14    | +2
+| Str  | 12    | +1
+| Dex  | 11    | +0
+
+| Save | Base  | Modifier
+|------|-------|---------
+| Fort | 2     | +2 con
+| Ref  | 0     | +0 dex
+| Will | 2     | +4 wis
+
 * Fort: 2 +con
 * Ref:  0 +dex
 * Will: 2 +wis
@@ -38,7 +51,7 @@
 
 ##Skills
 | Skill                 | Ranks | Modifiers
--------------------------------------------
+|-----------------------|-------|----------
 | Concentration         | 4     | +2 con
 | Handle Animal         | 3     | +2 cha
 | Heal                  | 1     | +4 wis
@@ -77,3 +90,5 @@ Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
 * Level 1: 2 [3 for level 1+1 bonus]
 
 (Lawful spells prohibited, spontaneous casting Summon Nature's Ally)
+
+[Index](./Readme.markdown)
