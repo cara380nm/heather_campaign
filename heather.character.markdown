@@ -16,14 +16,14 @@ See [bio](./heather.bio.markdown)
 * Level: 1
 
 ##Stats
-| Stat | Level | Bonus
-|------|-------|------
-| Wis  | 18    | +4
-| Int  | 14    | +2
-| Cha  | 14    | +2
-| Con  | 14    | +2
-| Str  | 12    | +1
-| Dex  | 11    | +0
+| Ability | Score | Modifier
+|---------|-------|---------
+| Wis     | 18    | +4
+| Int     | 14    | +2
+| Cha     | 14    | +2
+| Con     | 14    | +2
+| Str     | 12    | +1
+| Dex     | 11    | +0
 
 | Save | Base  | Modifier
 |------|-------|---------

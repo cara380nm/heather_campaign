@@ -2,7 +2,7 @@
 
 [Index](./Readme.markdown)
 
-[Animal Companion of Heather](./arthur.markdown)
+[Animal Companion of Heather](./heather.character.markdown)
 
 ##Misc
 * Creature: Riding dog (medium=0)
@@ -14,14 +14,14 @@
 * HD: 2 (2 base, +0 bonus HD at druid level 1/2)
 
 ##Stats
-| Stat | Level | Bonus
-|------|-------|------
-| Wis  | 12    | +1
-| Int  | 2     | -4
-| Cha  | 6     | -2
-| Con  | 15    | +2
-| Str  | 15    | +2
-| Dex  | 15    | +2
+| Ability | Score | Modifier
+|---------|-------|---------
+| Wis     | 12    | +1
+| Int     | 2     | -4
+| Cha     | 6     | -2
+| Con     | 15    | +2
+| Str     | 15    | +2
+| Dex     | 15    | +2
 
 | Save | Base  | Modifier
 |------|-------|---------
