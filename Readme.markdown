@@ -1,6 +1,8 @@
 #Index
 
+* Heather's:
+  * [Bio](./heather.bio.markdown)
+  * [Character sheet](./heather.character.markdown)
 * [Arthur](./arthur.markdown), heather's animal companion.
-* Heather's [character sheet](./heather.character.markdown)
-* Heather's [bio](./heather.bio.markdown)
-
+* Homebrew stuff:
+  * [Herbalism notes](./homebrew.herbalism.markdown)
