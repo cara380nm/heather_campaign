@@ -14,6 +14,7 @@ See [bio](./heather.bio.markdown)
 * Base speed: 30ft
 * Languages: Common, Druidic, Sylvan, Gnome
 * Level: 1
+* XP: 25
 
 ##Stats
 | Ability | Score | Modifier
@@ -65,7 +66,7 @@ See [bio](./heather.bio.markdown)
 | Survival              | 4     | +4 wis, +2 synergy when knowledge (nature)>=5
 
 ##Items:
-* Gold: 22
+* Gold: 21
 * Explorer's Outfit: 8lb
   * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
   * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
@@ -77,6 +78,9 @@ See [bio](./heather.bio.markdown)
   * 1xFlint and steel: 0lb
   * 1xChalk 0lb
   * 2xSack 1/2lb each
+  * 1x[Journal] (./heather.journal.markdown)
+  * Bottle containing poisoned spear and one containing some of the fluid from the broken vial.
+  * 1xpotion (cure light wounds equivalent)
 
 Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
 
