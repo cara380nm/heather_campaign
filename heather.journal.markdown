@@ -8,12 +8,12 @@ Guard house called for a healer. Some guy fell sick after visiting silver mine t
 
 Guard paid us to investigate. Kobold stumbled into camp at night. Could have talked it down, but orc and the rabbity thing jumped it. The kobold said something about being instructed to poison the water supply, and had a black liquid. I have a sample (and his poisoned spearhead).
 
-   |-----------------------|
-   |       .home    .mine  |
-   |                       |
-   |                       |
-   |                       |
-   |       .town           |
-   |-----------------------|
+    |-----------------------|
+    |       .home    .mine  |
+    |                       |
+    |                       |
+    |                       |
+    |       .town           |
+    |-----------------------|
 
 
