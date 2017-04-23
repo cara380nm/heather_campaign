@@ -62,8 +62,8 @@
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
 | Jump                  | 2     | +2 dex, +4 racial bonus
-| Listen                | 4     | +1 wis
-| Spot                  | 4     | +1 wis
+| Listen                | 2     | +1 wis +2 Alertness
+| Spot                  | 2     | +1 wis +2 Alertness
 | Swim                  | 1     | +2 str
 | Survival              | 1     | +1 wis, +4 racial when tracking by scent
 
@@ -74,6 +74,8 @@
   * 1xWaterskin 4lb
   * 1xTorch 4lb
   * 1xTent 20lb
+  * 3xDays rations
+  * 1xCure lightwounds (Heather-brewed -- may contain psychedelics)
 
 Riding dog: Light<=100lb, Medium<=200, Heavy <=300
 

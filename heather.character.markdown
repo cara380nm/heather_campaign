@@ -13,8 +13,8 @@ See [bio](./heather.bio.markdown)
 * Class: Druid
 * Base speed: 30ft
 * Languages: Common, Druidic, Sylvan, Gnome
-* Level: 1
-* XP: 25
+* Level: 2
+* XP: 1075
 
 ##Stats
 | Ability | Score | Modifier
@@ -28,18 +28,15 @@ See [bio](./heather.bio.markdown)
 
 | Save | Base  | Modifier
 |------|-------|---------
-| Fort | 2     | +2 con
+| Fort | 3     | +2 con
 | Ref  | 0     | +0 dex
-| Will | 2     | +4 wis
+| Will | 3     | +4 wis
 
-* Fort: 2 +con
-* Ref:  0 +dex
-* Will: 2 +wis
-* Attack bonus: +0[BAB] +0[Medium] +0[Str]
-* Ranged attack bonus: +0[BAB] +0[Medium] +Dex
+* Attack bonus: +1[BAB] +0[Medium] +0[Str]
+* Ranged attack bonus: +1[BAB] +0[Medium] +Dex
 * Spell DC=10 +Spell level +Wis [+1 if conjuration]
 * AC: 10 +0[No armour] +0[No shield] +0[Medium] +0[Dex]
-* Max HP: 10
+* Max HP: 20
 
 ##Feats
 * Augment Summoning [+4 str and +4 con to summoned creatures]
@@ -49,24 +46,25 @@ See [bio](./heather.bio.markdown)
 * Animal companion [Riding Dog, Arthur](./arthur.markdown)
 * Nature sense - +2 Knowledge(Nature) and Survival checks
 * Wild empathy - 1d20 +Druid level +Cha [+2 synergy when handle animal>5] to modify animal attitude
+* Woodland stride - Move through any nonmagical undergrowth at normal speed, taking no damage or impairment
 
 ##Skills
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
-| Concentration         | 4     | +2 con
-| Handle Animal         | 3     | +2 cha
-| Heal                  | 1     | +4 wis
-| Herbalism             | 3     | +4 wis or +2 int
-| Knowledge (Nature)    | 4     | +2 int, +2 synergy when survival>=5
+| Concentration         | 5     | +2 con
+| Handle Animal         | 5     | +2 cha
+| Heal                  | 2     | +4 wis
+| Herbalism             | 4     | +4 wis or +2 int
+| Knowledge (Nature)    | 5     | +2 int, +2 synergy as survival>=5
 | Knowledge (Religion)  | 2     | +2 int
 | Listen                | 1     | +4 wis
-| Ride                  | 1     | +1 dex, +2 synergy when handle animal>=5
+| Ride                  | 1     | +1 dex, +2 synergy as handle animal>=5
 | Spellcraft            | 2     | +2 int
 | Spot                  | 1     | +2 wis
-| Survival              | 4     | +4 wis, +2 synergy when knowledge (nature)>=5
+| Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
 ##Items:
-* Gold: 21
+* Gold: 55
 * Explorer's Outfit: 8lb
   * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
   * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
@@ -81,7 +79,10 @@ See [bio](./heather.bio.markdown)
   * 1x[Journal] (./heather.journal.markdown)
   * Bottle containing poisoned spear and one containing some of the fluid from the broken vial.
   * 1xpotion (cure light wounds equivalent)
-
+  * 1xAmethyst found in mine
+  * 2xChunks of silver ore found in mine
+  * 1xThunderstone
+  * 1xTorch
 Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
 
 ##Proficiencies
@@ -90,8 +91,8 @@ Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
 * Shield: all non-tower (metal prohibited)
 
 ##Spells per day
-* Level 0: 3 [3 for level 1]
-* Level 1: 2 [3 for level 1+1 bonus]
+* Level 0: 4 [4 for level 2]
+* Level 1: 3 [2 for level 2+1 bonus]
 
 (Lawful spells prohibited, spontaneous casting Summon Nature's Ally)
 
