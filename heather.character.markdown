@@ -1,10 +1,10 @@
-#Heather character sheet
+# Heather character sheet
 
 [Index](./Readme.markdown)
 
 See [bio](./heather.bio.markdown)
 
-##Misc
+## Misc
 * Race: Human (medium=0)
 * Description: Lean, light brown shoulder length hair, 5'8, 125lbs, slightly unkempt, relaxed carefree demeanor
 * Personality: Easygoing, bordering on apathetic, somewhat irresponsible
@@ -16,7 +16,7 @@ See [bio](./heather.bio.markdown)
 * Level: 2
 * XP: 1075
 
-##Stats
+## Stats
 | Ability | Score | Modifier
 |---------|-------|---------
 | Wis     | 18    | +4
@@ -38,17 +38,17 @@ See [bio](./heather.bio.markdown)
 * AC: 10 +0[No armour] +0[No shield] +0[Medium] +0[Dex]
 * Max HP: 20
 
-##Feats
+## Feats
 * Augment Summoning [+4 str and +4 con to summoned creatures]
 * Spell Focus (conjuration) [+1 to conjuration spell DC]
 
-##Special
+## Special
 * Animal companion [Riding Dog, Arthur](./arthur.markdown)
 * Nature sense - +2 Knowledge(Nature) and Survival checks
 * Wild empathy - 1d20 +Druid level +Cha [+2 synergy when handle animal>5] to modify animal attitude
 * Woodland stride - Move through any nonmagical undergrowth at normal speed, taking no damage or impairment
 
-##Skills
+## Skills
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
 | Concentration         | 5     | +2 con
@@ -63,7 +63,7 @@ See [bio](./heather.bio.markdown)
 | Spot                  | 1     | +2 wis
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
-##Items:
+## Items:
 * Gold: 55
 * Explorer's Outfit: 8lb
   * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
@@ -85,12 +85,12 @@ See [bio](./heather.bio.markdown)
   * 1xTorch
 Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
 
-##Proficiencies
+## Proficiencies
 * Weapon: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, spear, wild shape natural attacks
 * Armour: light and medium armor (metal prohibited)
 * Shield: all non-tower (metal prohibited)
 
-##Spells per day
+## Spells per day
 * Level 0: 4 [4 for level 2]
 * Level 1: 3 [2 for level 2+1 bonus]
 

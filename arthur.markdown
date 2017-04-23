@@ -1,10 +1,10 @@
-#Arthur character sheet
+# Arthur character sheet
 
 [Index](./Readme.markdown)
 
 [Animal Companion of Heather](./heather.character.markdown)
 
-##Misc
+## Misc
 * Creature: Riding dog (medium=0)
 * Description: Large grey and white husky, friendly, but unusually calm
 * Personality: Stoic, indulgent, habit of sighing
@@ -13,7 +13,7 @@
 * Base speed: 40ft
 * HD: 2 (2 base, +0 bonus HD at druid level 1/2)
 
-##Stats
+## Stats
 | Ability | Score | Modifier
 |---------|-------|---------
 | Wis     | 12    | +1
@@ -35,18 +35,18 @@
 * AC: 10 +4[natural] +2[Dex]
 * Max HP: 16 ( HD*(d8+con) )
 
-##Feats
+## Feats
 * Alertness [+2 listen, +2 spot]
 * Track [can use survival to follow tracks > DC10 ]
 
-##Special
+## Special
 * If trained for war, can trip like wolf (if bite hits, attempt trip as free action with +1, without making a touch attack or risking AoO, opponent can't trip on failure)
 * Low-light vision
 * Scent
 * Link - Move as free action, Push as move action, +4 wild empathy or handle animal
 * Share Spells - Optional. Only if remaining within 5ft. Alternately cast as touch on companion only
 
-##Tricks
+## Tricks
 
 * 6 due to int:
   * Attack
@@ -58,7 +58,7 @@
 * 1 bonus trick as animal companion:
   * Fetch
 
-##Skills
+## Skills
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
 | Jump                  | 2     | +2 dex, +4 racial bonus
@@ -67,7 +67,7 @@
 | Swim                  | 1     | +2 str
 | Survival              | 1     | +1 wis, +4 racial when tracking by scent
 
-##Items:
+## Items:
 * Leather collar
 * Pack saddle 15lb
   * 1x50ft rope: 5lb
