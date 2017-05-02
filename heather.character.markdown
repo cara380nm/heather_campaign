@@ -83,6 +83,7 @@ See [bio](./heather.bio.markdown)
   * 2xChunks of silver ore found in mine
   * 1xThunderstone
   * 1xTorch
+---
 Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
 
 ## Proficiencies
