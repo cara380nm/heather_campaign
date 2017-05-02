@@ -84,7 +84,7 @@ See [bio](./heather.bio.markdown)
   * 1xThunderstone
   * 1xTorch
 ---
-Encumberance range with 11 str: Light<=38lb, Medium<=76, Heavy <=115
+Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130
 
 ## Proficiencies
 * Weapon: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, spear, wild shape natural attacks
