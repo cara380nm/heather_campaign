@@ -76,7 +76,7 @@ See [bio](./heather.bio.markdown)
   * 1xFlint and steel: 0lb
   * 1xChalk 0lb
   * 2xSack 1/2lb each
-  * 1x[Journal] (./heather.journal.markdown)
+  * 1x[Journal](./heather.journal.markdown)
   * Bottle containing poisoned spear and one containing some of the fluid from the broken vial.
   * 1xpotion (cure light wounds equivalent)
   * 1xAmethyst found in mine
