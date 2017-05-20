@@ -35,3 +35,17 @@ Room with fire and several kobolds (dead). Room has an upward and downward exit.
     -☺-
     /|\
 
+Fought way down. Larder room with kobolds and dire weasel. 6 barrels. One had a note "payment in the ale barrel. bring the girls on tuesday -kv". Ale barrel had 1 milky white gem, jade inlaid gold broach, 3 moss agates, 25gp, small vial (invisibility potion).
+
+Large cavern (blue green light, bioluminescent moss) had a bridge going to barricade. Another path continues below.
+
+Made truce with M'doc the shamanic kobold leader. His kobolds worked for orc Jack Tornclaw. Jack "gave" M'doc the mine 20 years ago. Is holy site of Grumish. Jack wanted bodies, infected and otherwise. Jack in small cave after water. Agreed to meet "further down the mountain at the 1st copse due south towards Abingdon".
+
+Exchanged gifts (cloak and level 5 enlarge potion from him).
+
+## Day 4
+
+Sleep behind barricade. Head across the water below. Undead creatures appear. Trogdor burns.
+
+
+

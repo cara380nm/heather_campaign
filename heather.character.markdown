@@ -14,7 +14,7 @@ See [bio](./heather.bio.markdown)
 * Base speed: 30ft
 * Languages: Common, Druidic, Sylvan, Gnome
 * Level: 2
-* XP: 1075
+* XP: 2425
 
 ## Stats
 | Ability | Score | Modifier
@@ -69,7 +69,7 @@ See [bio](./heather.bio.markdown)
   * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
   * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
 * 1xQuarterstaff (1d6/1d6 bludgeoning, x2 crit) 4lb
-  * 5xbullets 1/2lb each
+  * 19xbullets 1/2lb each
 * 1xBackpack 2lb
   * 1xBedroll 5lb
   * 1xHerbalism tools flasks (a few flasks and bottles wrapped in canvas) 5lb
@@ -83,6 +83,7 @@ See [bio](./heather.bio.markdown)
   * 2xChunks of silver ore found in mine
   * 1xThunderstone
   * 1xTorch
+  * 1xCloak (from M'doc). Suspected magical. Lice-free.
 ---
 Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130
 
