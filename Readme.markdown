@@ -4,6 +4,6 @@
   * [Bio](./heather.bio.markdown)
   * [Character sheet](./heather.character.markdown)
   * [Journal](./heather.journal.markdown)
-* [Arthur](./arthur.markdown), heather's animal companion.
+* [Arthur](./arthur.markdown), heather's animal companion. ![Arthur](arthur.jpeg "./Arthur.jpeg")
 * Homebrew stuff:
   * [Herbalism notes](./homebrew.herbalism.markdown)

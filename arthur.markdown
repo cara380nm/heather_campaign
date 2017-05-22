@@ -4,8 +4,6 @@
 
 [Animal Companion of Heather](./heather.character.markdown)
 
-![Arthur](arthur.jpeg "./Arthur.jpeg")
-
 ## Misc
 * Creature: Riding dog (medium=0)
 * Description: Large grey and white husky, friendly, but unusually calm
