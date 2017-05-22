@@ -39,7 +39,7 @@ Fought way down. Larder room with kobolds and dire weasel. 6 barrels. One had a 
 
 Large cavern (blue green light, bioluminescent moss) had a bridge going to barricade. Another path continues below.
 
-Made truce with M'doc the shamanic kobold leader. His kobolds worked for orc Jack Tornclaw. Jack "gave" M'doc the mine 20 years ago. Is holy site of Grumish. Jack wanted bodies, infected and otherwise. Jack in small cave after water. Agreed to meet "further down the mountain at the 1st copse due south towards Abingdon".
+Made truce with M'doc the shamanic kobold leader. His kobolds worked for orc Jakk Tornclaw. Jakk "gave" M'doc the mine 20 years ago. Is holy site of Grumish. Jakk wanted bodies, infected and otherwise. Jakk in small cave after water. Agreed to meet "further down the mountain at the 1st copse due south towards Abingdon".
 
 Exchanged gifts (cloak and level 5 enlarge potion from him).
 
@@ -47,5 +47,25 @@ Exchanged gifts (cloak and level 5 enlarge potion from him).
 
 Sleep behind barricade. Head across the water below. Undead creatures appear. Trogdor burns.
 
+Jakk at Grumish Altar in centre of water. Killed Jakk. Blight clears instantly. Body in poor condition. Story scribed into altar - desired smiting humans as vengeance. Mine originally Orc temple. Somebody invisible in room escapes (Kobolds call "Jack's shadow").
 
+Miners happy about mine. Less so about Kobold truce. Met with M'Doc and travel home (caught tasty boar). Agreed for Kobolds to found their village in the forest.
+
+## Day 5
+
+Went on to Abingdon with M'doc. Sold items. Curious about Jakk's scrolls. Met mayor. Requested kobolds left in peace. Hopefully future trade possible.
+
+Half elf named Kvothe bought goods but requested that we obtain a heirloom for him.
+
+
+    |------------------------|
+    |       .home    .duvik's|
+    |                 pass   |
+    |                        |
+    |                        |
+    |       .abingdon        |
+    |                  .watch|
+    |                   hill |
+    |.devon ride             |
+    |------------------------|
 

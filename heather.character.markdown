@@ -14,7 +14,7 @@ See [bio](./heather.bio.markdown)
 * Base speed: 30ft
 * Languages: Common, Druidic, Sylvan, Gnome
 * Level: 2
-* XP: 2425
+* XP: 3375
 
 ## Stats
 | Ability | Score | Modifier
@@ -28,9 +28,9 @@ See [bio](./heather.bio.markdown)
 
 | Save | Base  | Modifier
 |------|-------|---------
-| Fort | 3     | +2 con
-| Ref  | 0     | +0 dex
-| Will | 3     | +4 wis
+| Fort | 3     | +2 con, +1 cloak
+| Ref  | 0     | +0 dex, +1 cloak
+| Will | 3     | +4 wis, +1 cloak
 
 * Attack bonus: +1[BAB] +0[Medium] +0[Str]
 * Ranged attack bonus: +1[BAB] +0[Medium] +Dex
@@ -64,26 +64,25 @@ See [bio](./heather.bio.markdown)
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
 ## Items:
-* Gold: 55
+* Gold: 1188
 * Explorer's Outfit: 8lb
   * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
   * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
 * 1xQuarterstaff (1d6/1d6 bludgeoning, x2 crit) 4lb
-  * 19xbullets 1/2lb each
+  * 17xbullets 1/2lb each
 * 1xBackpack 2lb
   * 1xBedroll 5lb
   * 1xHerbalism tools flasks (a few flasks and bottles wrapped in canvas) 5lb
-  * 1xFlint and steel: 0lb
   * 1xChalk 0lb
   * 2xSack 1/2lb each
   * 1x[Journal](./heather.journal.markdown)
   * Bottle containing poisoned spear and one containing some of the fluid from the broken vial.
-  * 1xpotion (cure light wounds equivalent)
-  * 1xAmethyst found in mine
-  * 2xChunks of silver ore found in mine
-  * 1xThunderstone
+  * 1xThunderstone (20ft thrown incr, creatures in 10ft radius DC 15 Fort vs 1 hour deafness. AC is 5)
   * 1xTorch
-  * 1xCloak (from M'doc). Suspected magical. Lice-free.
+  * 1xM'doc's Cloak of Resistance +1 (+1 fort/ref/will)
+  * 1xScroll of Summon Monster II
+  * 1xScroll of Dispel Magic
+
 ---
 Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130
 
@@ -99,3 +98,4 @@ Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130
 (Lawful spells prohibited, spontaneous casting Summon Nature's Ally)
 
 [Index](./Readme.markdown)
+

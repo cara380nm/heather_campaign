@@ -4,6 +4,8 @@
 
 [Animal Companion of Heather](./heather.character.markdown)
 
+![Arthur](arthur.jpeg "./Arthur.jpeg")
+
 ## Misc
 * Creature: Riding dog (medium=0)
 * Description: Large grey and white husky, friendly, but unusually calm
@@ -62,8 +64,8 @@
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
 | Jump                  | 2     | +2 dex, +4 racial bonus
-| Listen                | 2     | +1 wis +2 Alertness
-| Spot                  | 2     | +1 wis +2 Alertness
+| Listen                | 2     | +1 wis, +2 Alertness
+| Spot                  | 2     | +1 wis, +2 Alertness
 | Swim                  | 1     | +2 str
 | Survival              | 1     | +1 wis, +4 racial when tracking by scent
 
