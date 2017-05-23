@@ -78,10 +78,7 @@
   * 1xWaterskin 4lb
   * 1xTorch 4lb
   * 1xTent 20lb
-  * 3xDays rations
-  * 1xCure lightwounds (Heather-brewed -- may contain psychedelics)
 
-Riding dog: Light<=100lb, Medium<=200, Heavy <=300
+Quadruped 16 str: Light<=114lb, Medium<=229, Heavy <=345
 
 [Index](./Readme.markdown)
-

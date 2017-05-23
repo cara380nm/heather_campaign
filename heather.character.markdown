@@ -53,16 +53,15 @@ See [bio](./heather.bio.markdown)
 ## Skills
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
-| Concentration         | 5     | +2 con
-| Diplomacy             | 1     | +2 cha
+| Concentration         | 6     | +2 con
+| Diplomacy             | 2     | +2 cha
 | Handle Animal         | 5     | +2 cha
 | Heal                  | 2     | +4 wis
-| Herbalism             | 4     | +4 wis or +2 int
 | Knowledge (Nature)    | 6     | +2 int, +2 synergy as survival>=5
 | Knowledge (Religion)  | 4     | +2 int
 | Listen                | 1     | +4 wis
 | Ride                  | 1     | +1 dex, +2 synergy as handle animal>=5
-| Spellcraft            | 2     | +2 int
+| Spellcraft            | 4     | +2 int
 | Spot                  | 1     | +2 wis
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
@@ -99,7 +98,6 @@ Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130
 * Level 1: 3 [2 for level 2+1 bonus]
 * Level 2: 2 [1 for level 2+1 bonus]
 
-(Lawful spells prohibited, spontaneous casting Summon Nature's Ally)
+(Lawful spells prohibited, spontaneous casting Summon Nature's Ally and Cure spells)
 
 [Index](./Readme.markdown)
-
