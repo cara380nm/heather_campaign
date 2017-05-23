@@ -10,10 +10,10 @@ See [bio](./heather.bio.markdown)
 * Personality: Easygoing, bordering on apathetic, somewhat irresponsible
 * Age: 22
 * Alignment: Chaotic Neutral
-* Class: Druid
+* Class: Druid 3
 * Base speed: 30ft
-* Languages: Common, Druidic, Sylvan, Gnome
-* Level: 2
+* Languages: Common, Druidic, Sylvan, Gnome, Kobold
+* Character level: 3
 * XP: 3375
 
 ## Stats
@@ -29,34 +29,37 @@ See [bio](./heather.bio.markdown)
 | Save | Base  | Modifier
 |------|-------|---------
 | Fort | 3     | +2 con, +1 cloak
-| Ref  | 0     | +0 dex, +1 cloak
+| Ref  | 1     | +0 dex, +1 cloak
 | Will | 3     | +4 wis, +1 cloak
 
-* Attack bonus: +1[BAB] +0[Medium] +0[Str]
-* Ranged attack bonus: +1[BAB] +0[Medium] +Dex
+* Attack bonus: +2[BAB] +0[Medium] +0[Str]
+* Ranged attack bonus: +2[BAB] +0[Medium] +0[Dex]
 * Spell DC=10 +Spell level +Wis [+1 if conjuration]
 * AC: 10 +0[No armour] +0[No shield] +0[Medium] +0[Dex]
-* Max HP: 20
+* Max HP: 24
 
 ## Feats
 * Augment Summoning [+4 str and +4 con to summoned creatures]
 * Spell Focus (conjuration) [+1 to conjuration spell DC]
+* Spontaneous Healer [spontaneously cast cure wounds spells, casts per day equal to wis mod]
 
 ## Special
 * Animal companion [Riding Dog, Arthur](./arthur.markdown)
 * Nature sense - +2 Knowledge(Nature) and Survival checks
-* Wild empathy - 1d20 +Druid level +Cha [+2 synergy when handle animal>5] to modify animal attitude
+* Wild empathy - 1d20 +Druid level +Cha [+2 synergy when handle animal>5] to modify animal/magical beast attitude
 * Woodland stride - Move through any nonmagical undergrowth at normal speed, taking no damage or impairment
+* Trackless step - Leaves no trail in natural surroundings and cannot be tracked.
 
 ## Skills
 | Skill                 | Ranks | Modifiers
 |-----------------------|-------|----------
 | Concentration         | 5     | +2 con
+| Diplomacy             | 1     | +2 cha
 | Handle Animal         | 5     | +2 cha
 | Heal                  | 2     | +4 wis
 | Herbalism             | 4     | +4 wis or +2 int
-| Knowledge (Nature)    | 5     | +2 int, +2 synergy as survival>=5
-| Knowledge (Religion)  | 2     | +2 int
+| Knowledge (Nature)    | 6     | +2 int, +2 synergy as survival>=5
+| Knowledge (Religion)  | 4     | +2 int
 | Listen                | 1     | +4 wis
 | Ride                  | 1     | +1 dex, +2 synergy as handle animal>=5
 | Spellcraft            | 2     | +2 int
@@ -94,6 +97,7 @@ Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130
 ## Spells per day
 * Level 0: 4 [4 for level 2]
 * Level 1: 3 [2 for level 2+1 bonus]
+* Level 2: 2 [1 for level 2+1 bonus]
 
 (Lawful spells prohibited, spontaneous casting Summon Nature's Ally)
 
