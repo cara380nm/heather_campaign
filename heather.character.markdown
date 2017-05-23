@@ -66,7 +66,7 @@ See [bio](./heather.bio.markdown)
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
 ## Items:
-* Gold: 1188
+* Gold: 1743
 * Explorer's Outfit: 8lb
   * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
   * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
