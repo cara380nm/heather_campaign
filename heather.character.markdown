@@ -61,8 +61,9 @@ See [bio](./heather.bio.markdown)
 | Knowledge (Religion)  | 4     | +2 int
 | Listen                | 1     | +4 wis
 | Ride                  | 1     | +1 dex, +2 synergy as handle animal>=5
-| Spellcraft            | 4     | +2 int
+| Spellcraft            | 3     | +2 int
 | Spot                  | 1     | +2 wis
+| Swim                  | 1     | +1 str
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
 ## Items:
