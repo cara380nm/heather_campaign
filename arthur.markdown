@@ -33,7 +33,7 @@
 * Attack: Bite +6 melee (1d6+4) [primary natural weapons get 1.5 strength]
 * Full attack: Bite +6 melee (1d6+4)
 * AC: 10 +4[natural] +2[Dex] +2[natural armour adj]
-* Max HP: 30 ( HD*(d8+con) )
+* Max HP: 30 ( HD multiplied by (d8+con) )
 
 ## Feats
 * Alertness [+2 listen, +2 spot]
@@ -78,6 +78,8 @@
   * 1xWaterskin 4lb
   * 1xTorch 4lb
   * 1xTent 20lb
+  * 1xBedroll 5lb
+  * 1xHerbalism tools flasks (a few flasks and bottles wrapped in canvas) 5lb
 
 Quadruped 16 str: Light<=114lb, Medium<=229, Heavy <=345
 
