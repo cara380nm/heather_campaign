@@ -57,25 +57,27 @@ See [bio](./heather.bio.markdown)
 | Diplomacy             | 2     | +2 cha
 | Handle Animal         | 5     | +2 cha
 | Heal                  | 2     | +4 wis
+| Knowledge (Arcana)    | 1     | +2 int
 | Knowledge (Nature)    | 6     | +2 int, +2 synergy as survival>=5
 | Knowledge (Religion)  | 4     | +2 int
 | Listen                | 1     | +4 wis
 | Ride                  | 1     | +1 dex, +2 synergy as handle animal>=5
-| Spellcraft            | 3     | +2 int
+| Spellcraft            | 3     | +2 int, would get bonus if Knowledge Arcana>=5
 | Spot                  | 1     | +2 wis
 | Swim                  | 1     | +1 str
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
 ## Items:
-* Gold: 1743
+* Gold: 581
+* Masterwork leather armour (human) 15lb (2AC, +0 armour check, 10% ASF, no speed mod, +6 dexcap)
 * Explorer's Outfit: 8lb
-  * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
-  * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
-* 1xQuarterstaff (1d6/1d6 bludgeoning, x2 crit) 4lb
+* 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
+* 1xMasterwork Spear (1d8, piercing, x3, 20ft inc, +1 attack) 6lb
+* 1xMasterwork Sickle (1d6, slashing, x2, +1 attack) 2lb
+* 1xMasterwork Sling (1d4, bludgeoning, x2, 50ft inc, +1 attack) 0lb
   * 17xbullets 1/2lb each
 * 1xBackpack 2lb
   * 1xChalk 0lb
-  * 2xSack 1/2lb each
   * 1x[Journal](./heather.journal.markdown)
   * Bottle containing poisoned spear and one containing some of the fluid from the broken vial.
   * 1xThunderstone (20ft thrown incr, creatures in 10ft radius DC 15 Fort vs 1 hour deafness. AC is 5)
@@ -83,6 +85,10 @@ See [bio](./heather.bio.markdown)
   * 1xM'doc's Cloak of Resistance +1 (+1 fort/ref/will)
   * 1xScroll of Summon Monster II
   * 1xScroll of Dispel Magic
+  * 1xBlank spellbook 3lb
+  * 1xWizardry for dummies 3lb
+  * 1xHoly water 1lb (10ft ranged, 2d4 direct/1 splash 5ft radius vs undead)
+  * 2xAcid 1lb (10ft ranged, 1d6 direct/1 splash 5ft radius)
 
 ---
 Encumbrance range with 12 str: Light<=43lb, Medium<=86, Heavy <=130

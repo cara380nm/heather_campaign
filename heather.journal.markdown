@@ -69,3 +69,10 @@ Half elf named Kvothe bought goods but requested that we obtain a heirloom for h
     |.devon ride             |
     |------------------------|
 
+## Days 6 - 8
+
+M'doc returned. Bought things and started scroll research.
+
+# Day 9
+
+Headed to crypt (Nognor's rest). Nognor was evil wizard. Troglodyte tracks outside. 3 doors. Two plainer tombs had coins. 3rd had passage with Troglodyte and monitor lizard. Room after had lizard stacking items across door. We took other door. Lizards and bridge.

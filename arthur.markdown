@@ -72,6 +72,7 @@
 | Swim                  | 1     | +2 str
 
 ## Items:
+* Masterwork leather armour (dog) 15lb (2AC, +0 armour check, 10% ASF, no speed mod, +6 dexcap)
 * Leather collar
 * Pack saddle 15lb
   * 1x50ft rope: 5lb
@@ -80,6 +81,11 @@
   * 1xTent 20lb
   * 1xBedroll 5lb
   * 1xHerbalism tools flasks (a few flasks and bottles wrapped in canvas) 5lb
+  * 1xHealer's kit 1lb
+  * 1xInk
+  * 1xFlint and steel
+  * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
+  * 2xSack 1/2lb each
 
 Quadruped 16 str: Light<=114lb, Medium<=229, Heavy <=345
 
