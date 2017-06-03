@@ -12,7 +12,7 @@ See [bio](./heather.bio.markdown)
 * Alignment: Chaotic Neutral
 * Class: Druid 3
 * Base speed: 30ft
-* Languages: Common, Druidic, Sylvan, Gnome, Kobold
+* Languages: Common, Druidic, Sylvan, Gnome, Draconic
 * Character level: 3
 * XP: 3375
 
