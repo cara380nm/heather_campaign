@@ -75,4 +75,20 @@ M'doc returned. Bought things and started scroll research.
 
 # Day 9
 
-Headed to crypt (Nognor's rest). Nognor was evil wizard. Troglodyte tracks outside. 3 doors. Two plainer tombs had coins. 3rd had passage with Troglodyte and monitor lizard. Room after had lizard stacking items across door. We took other door. Lizards and bridge.
+Headed to crypt (Nognor's rest). Nognor was evil wizard. Troglodyte tracks outside. 3 doors. Two plainer tombs had coins. 3rd had passage with Troglodyte and monitor lizard. Room after had Troglodytes  stacking items across door. We took other door. Troglodytes and bridge. Disabled them. Bridge trapped with counterweight to fall.
+
+Next room. 2 guardian statues breathe fire. "all kneel". Removed power gem. Statue to Nognor the Terrible, Lord of Jesters. Concealed ladder below. Gilt lit room. Wakeen Fountain. Trogdor bloodied it. 2 hours to cleanse taint. Drank. Temporarily luck improving? Rested.
+
+# Day 10
+
+Warning of pending death at next room. Bugbear zombies. Coffin. Kvothe got symbol (marking him as heir to Elvish house). We got a staff and scimitar. Staff turned Trogdor orange. Scimitar zappy and awesome.
+
+# Day 11
+
+Kvothe gave old spellbook while returning.
+
+# Day 12 (ish)
+
+Eating chicken. Marge called us. Kobold "Pico" attacked by farmers. Told watch captain. Visited Redcoat's farm. Shambling mound responsible. Had children. Sent it towards grove. Warned farmers about further expansion.
+
+

@@ -57,7 +57,7 @@ See [bio](./heather.bio.markdown)
 | Diplomacy             | 2     | +2 cha
 | Handle Animal         | 5     | +2 cha
 | Heal                  | 2     | +4 wis
-| Knowledge (Arcana)    | 1     | +2 int
+| Knowledge (Arcana)    | 3     | +2 int
 | Knowledge (Nature)    | 6     | +2 int, +2 synergy as survival>=5
 | Knowledge (Religion)  | 4     | +2 int
 | Listen                | 1     | +4 wis
@@ -68,12 +68,13 @@ See [bio](./heather.bio.markdown)
 | Survival              | 5     | +4 wis, +2 synergy as knowledge (nature)>=5
 
 ## Items:
-* Gold: 581
+* Gold: 1140
 * Masterwork leather armour (human) 15lb (2AC, +0 armour check, 10% ASF, no speed mod, +6 dexcap)
 * Explorer's Outfit: 8lb
 * 1xDagger (1d4, piercing or slashing, 19-20 x2 crit) 1lb
 * 1xMasterwork Spear (1d8, piercing, x3, 20ft inc, +1 attack) 6lb
 * 1xMasterwork Sickle (1d6, slashing, x2, +1 attack) 2lb
+* 1x +1 Scimitar (1d6+1, slashing, 18-20/x2, +1 attack) 4lb
 * 1xMasterwork Sling (1d4, bludgeoning, x2, 50ft inc, +1 attack) 0lb
   * 17xbullets 1/2lb each
 * 1xBackpack 2lb

@@ -86,6 +86,7 @@
   * 1xFlint and steel
   * 1xSling (1d4, bludgeoning, x2 crit, 50ft inc) 0lb
   * 2xSack 1/2lb each
+  * 1xKvothe's spellbook 3lb
 
 Quadruped 16 str: Light<=114lb, Medium<=229, Heavy <=345
 
